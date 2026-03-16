@@ -73,25 +73,11 @@ Task 3 — Object Recognition
 
 ## 👤 Author
 
-**[Your Name]**  
-Computer Vision Course — 2025  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/yourusername)
+Muhammad Jalal Khan  
+Machine Learnng Course sub topic Comuter vision — 2025  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Muhammad-JalalKhan)
 
 ---
 
 ## 📜 License
 This project is licensed under the [MIT License](./LICENSE)
-```
-
----
-
-## 👀 How It Looks on GitHub
-```
-✅ Badges at top    → looks modern & professional
-✅ Clean table      → easy to navigate projects
-✅ Tech stack line  → quick overview
-✅ Quick start      → easy to run
-✅ Results summary  → shows your work clearly
-✅ Not too long     → clean and readable
-✅ Author section   → personal touch
-✅ License link     → professional standard
